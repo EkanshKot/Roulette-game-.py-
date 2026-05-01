@@ -12,11 +12,6 @@ A desktop **Roulette game** featuring an interactive wheel, multiple bets, odds 
 I had built this originally a long back ago and it was incomplete,I have added some more features(odds etc for)and have also improved the UI.
 
 
-
-However I built this program to understand for about Tkinter ,UI ,How to manage and save data and not for gambling purposes.I do not promote it nor partake in such activities.
-
-
-
 ## Features
 
 - **Interactive Wheel**: Spins smoothly and lands precisely on a winning number.
